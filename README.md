@@ -1,2 +1,24 @@
 # hello-world
-Following the tutorial!!!!!
+
+17/08/21, 17:28 -
+
+Hello humans!
+I am Tom and I like to code!! (Obvs)
+I have been coding for six years now and I am currently learning Ursina
+
+As of 17/08/21 (UK Date and Time) I know the following coding languages:
+  
+  HTML, 
+  CSS,
+  Python,
+  Java,
+  SmallBasic,
+  Visual Basic,
+  C#
+  
+Any commits to this file are found here!
+
+Bye!!
+
+P.S: Check out my YouTube Channel, King Coding! I'm hoping to get to 100 subs!!
+
