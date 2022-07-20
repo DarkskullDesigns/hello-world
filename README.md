@@ -22,3 +22,5 @@ Bye!!
 
 P.S: Check out my YouTube Channel, King Coding! I'm hoping to get to 100 subs!!
 
+# 20/07/22
+WOAH! Popping in from the future you can no longer visit King Coding :( It's gone forever, im learning C++ now <3
